@@ -1,0 +1,3 @@
+¡Hola! Bienvenido a texto1.txt
+Este archivo es para fines de prueba.
+¡Buena suerte!
