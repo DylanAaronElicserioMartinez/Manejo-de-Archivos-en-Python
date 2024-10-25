@@ -224,6 +224,8 @@ else:
 
 ![image](https://github.com/user-attachments/assets/198d1943-a027-4975-881d-77eeb82dc032)
 
+![image](https://github.com/user-attachments/assets/4708b9b8-29bc-4107-a7c9-e52b2ceea060)
+
 #Codigo 9
 
 print(" ")
@@ -257,5 +259,3 @@ except Exception as e:
 ![image](https://github.com/user-attachments/assets/b792209b-4430-4199-a772-9169459d7bab)
 
 ![image](https://github.com/user-attachments/assets/6b2000a9-ffe8-4b69-8e16-2a9d2448c01b)
-
-![image](https://github.com/user-attachments/assets/4708b9b8-29bc-4107-a7c9-e52b2ceea060)
